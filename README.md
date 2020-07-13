@@ -1,5 +1,7 @@
 # Utils
 
+> 不是造轮子，仅仅是一个简单的拓展工具，方便开发
+
 在项目的CMakeLists.txt中使用`add_subdirectory(Utils)`添加本文件夹，作为一个动/静态库链接到项目`target_link_libraries(${ProjectName} utils)`。
 
 1. Logger：一个简单的命令行程序日志出输出工具。
