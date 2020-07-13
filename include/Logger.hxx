@@ -13,8 +13,8 @@
 
 #include <chrono>
 #include <iostream>
-#include "../../3rd-party/include/fmt/format.h"
-#include "../../3rd-party/include/fmt/printf.h"
+#include "../../3rd-party/fmt/include/fmt/format.h"
+#include "../../3rd-party/fmt/include/fmt/printf.h"
 
 std::string elapsedTime ();
 
