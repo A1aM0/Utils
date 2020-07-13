@@ -6,6 +6,7 @@
 #ifndef UTILS_UTILS_HXX
 #define UTILS_UTILS_HXX
 
+#include "include/ThreadPool.hxx"
 #include "include/Logger.hxx"
 
 #endif //UTILS_UTILS_HXX
